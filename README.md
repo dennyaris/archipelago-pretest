@@ -1,15 +1,15 @@
 # Basic Question
-[import](./basic_solution.md)
+[View](./basic_solution.md)
 
 ---
 
 # Database Question
-[import](./database_solution.md)
+[View](./database_solution.md)
 
 ---
 
 # JavaScript Question
-[import](./javascript_solution.md)
+[View](./javascript_solution.md)
 
 ---
 
