@@ -42,10 +42,9 @@ _Store moderation logs:_
 ---
 
 ### if I were to build this MVP quickly, I’d use:
-Backend: Go + Fiber
+Backend and FE: Laravel
 DB: mysql
 Storage: Cloudflare R2 (S3-compatible, cheap).
-Admin Panel: Laravel
 ---
 
 ## UML Diagram
