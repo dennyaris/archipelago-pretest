@@ -35,7 +35,6 @@
 5. Regular Patching
     - Automate updates for critical systems.
     - Patch third-party libraries and dependencies quickly.
-    - Maintain an asset inventory so you know what to patch.
 
 6. Firewall & Network Segmentation
     - Use default-deny firewall rules.
